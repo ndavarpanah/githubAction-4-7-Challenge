@@ -1,6 +1,6 @@
 # 04_07_challenge_develop_a_deployment_pipeline
 
-It's time for a challenge!
+It's  time for a challenge!
 
 Your team is excited to use GitHub Actions for their next project.
 
